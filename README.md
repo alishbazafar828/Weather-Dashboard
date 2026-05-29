@@ -1,2 +1,33 @@
-# Weather-Dashboard
-A modern Weather Dashboard built with React.js featuring real-time weather data, 7-day forecast, and light/dark mode toggle.
+# Weather Dashboard
+
+A modern, responsive weather application built with React.js that provides real-time weather information and a 7-day forecast with light/dark mode support.
+
+## ✨ Features
+
+- 🔍 Search weather by any city name
+- 🌡️ Real-time current weather (temperature, humidity, wind)
+- 📅 7-day weather forecast
+- 🌗 Light & Dark mode toggle
+- ⚡ Built using Custom Hook and Context API
+- 📱 Fully responsive design
+- ✅ Loading states and error handling
+
+## 🛠️ Technologies Used
+
+- **React.js** (Functional Components + Hooks)
+- **Context API** (Theme Management)
+- **Custom Hook** (`useWeather`)
+- **Open-Meteo API** (Weather Data)
+- **CSS3** (Modern styling with transitions)
+
+## 🚀 Demo
+
+> *Demo video will be added here after upload*
+
+## 📸 Screenshots
+
+## 🛠️ Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/Weather Dashboard.git

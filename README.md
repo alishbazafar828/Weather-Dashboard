@@ -30,4 +30,4 @@ https://github.com/alishbazafar828/Weather-Dashboard/raw/d3d249364d1b0f577680a1e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Weather Dashboard.git
+   git clone https://github.com/alishbazafar828/Weather Dashboard.git

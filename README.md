@@ -20,9 +20,9 @@ A modern, responsive weather application built with React.js that provides real-
 - **Open-Meteo API** (Weather Data)
 - **CSS3** (Modern styling with transitions)
 
-## 🚀 Demo
+## 🎥 Demo Video
 
-> *Demo video will be added here after upload*
+https://github.com/alishbazafar828/Weather-Dashboard/raw/d3d249364d1b0f577680a1eced95d09c8091f667/Weather%20Dashboard%20Demo.mp4
 
 ## 📸 Screenshots
 

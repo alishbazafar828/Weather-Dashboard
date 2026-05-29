@@ -23,11 +23,3 @@ A modern, responsive weather application built with React.js that provides real-
 ## 🎥 Demo Video
 
 https://github.com/alishbazafar828/Weather-Dashboard/raw/d3d249364d1b0f577680a1eced95d09c8091f667/Weather%20Dashboard%20Demo.mp4
-
-## 📸 Screenshots
-
-## 🛠️ Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/alishbazafar828/Weather Dashboard.git
